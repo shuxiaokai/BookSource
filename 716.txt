@@ -1,5 +1,5 @@
 {
-  "bookSourceGroup": "Book716",
+  "bookSourceGroup": "Bookmy716",
   "bookSourceName": "My176",
   "bookSourceUrl": "http://api.zhuishushenqi.com",
   "enable": true,
@@ -18,7 +18,7 @@
   "ruleContentUrl": "@JSon:$.link@js:\"http://chapterup.zhuishushenqi.com/chapter/\" + encodeURIComponent(result)",
   "ruleContentUrlNext": "",
   "ruleCoverUrl": "",
-  "ruleFindUrl": "œ…œ¿::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E4%BB%99%E4%BE%A0&start={0,50,100,150}&limit=50&&\nŒ‰œ¿::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E6%AD%A6%E4%BE%A0&start={0,50,100,150}&limit=50&&\n–˛ª√::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%8E%84%E5%B9%BB&start={0,50,100,150}&limit=50&&\n∆Êª√::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%A5%87%E5%B9%BB&start={0,50,100,150}&limit=50&&\nø∆ª√::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%A7%91%E5%B9%BB&start={0,50,100,150}&limit=50&&\n”Œœ∑::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E6%B8%B8%E6%88%8F&start={0,50,100,150}&limit=50&&\n¿˙ ∑::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%8E%86%E5%8F%B2&start={0,50,100,150}&limit=50&&\n¡È“Ï::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%A7%91%E5%B9%BB&start={0,50,100,150}&limit=50\n∂º –::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E9%83%BD%E5%B8%82&start={0,50,100,150}&limit=50\næ∫ºº::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%AB%9E%E6%8A%80&start={0,50,100,150}&limit=50&&\n÷∞≥°::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E8%81%8C%E5%9C%BA&start={0,50,100,150}&limit=50&&\næ¸ ¬::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%86%9B%E4%BA%8B&start={0,50,100,150}&limit=50&&\nÕ¨»À::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%90%8C%E4%BA%BA&start={0,50,100,150}&limit=50&&\n«·–°Àµ::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E8%BD%BB%E5%B0%8F%E8%AF%B4&start={0,50,100,150}&limit=50&&",
+  "ruleFindUrl": "‰ªô‰æ†::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E4%BB%99%E4%BE%A0&start={0,50,100,150}&limit=50&&\nÊ≠¶‰æ†::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E6%AD%A6%E4%BE%A0&start={0,50,100,150}&limit=50&&\nÁéÑÂπª::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%8E%84%E5%B9%BB&start={0,50,100,150}&limit=50&&\nÂ•áÂπª::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%A5%87%E5%B9%BB&start={0,50,100,150}&limit=50&&\nÁßëÂπª::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%A7%91%E5%B9%BB&start={0,50,100,150}&limit=50&&\nÊ∏∏Êàè::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E6%B8%B8%E6%88%8F&start={0,50,100,150}&limit=50&&\nÂéÜÂè≤::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%8E%86%E5%8F%B2&start={0,50,100,150}&limit=50&&\nÁÅµÂºÇ::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%A7%91%E5%B9%BB&start={0,50,100,150}&limit=50\nÈÉΩÂ∏Ç::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E9%83%BD%E5%B8%82&start={0,50,100,150}&limit=50\nÁ´ûÊäÄ::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E7%AB%9E%E6%8A%80&start={0,50,100,150}&limit=50&&\nËÅåÂú∫::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E8%81%8C%E5%9C%BA&start={0,50,100,150}&limit=50&&\nÂÜõ‰∫ã::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%86%9B%E4%BA%8B&start={0,50,100,150}&limit=50&&\nÂêå‰∫∫::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E5%90%8C%E4%BA%BA&start={0,50,100,150}&limit=50&&\nËΩªÂ∞èËØ¥::http://api.zhuishushenqi.com/book/by-categories?gender=male&type=hot&major=%E8%BD%BB%E5%B0%8F%E8%AF%B4&start={0,50,100,150}&limit=50&&",
   "ruleIntroduce": "@JSon:$.shortIntro",
   "ruleSearchAuthor": "@JSon:$.author",
   "ruleSearchCoverUrl": "@JSon:$.cover@js:\"http://statics.zhuishushenqi.com\" + result",
@@ -32,8 +32,8 @@
   "weight": 0
 }
 {
-  "bookSourceGroup": "Book716",
-  "bookSourceName": "Books È‘¥",
+  "bookSourceGroup": "Bookmy716",
+  "bookSourceName": "Books‰π¶Ê∫ê",
   "bookSourceUrl": "http://books.applinzi.com",
   "checkUrl": "",
   "enable": true,
